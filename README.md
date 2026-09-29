@@ -69,15 +69,6 @@ const jenil = {
 
 ---
 
-## ⚡ Recent Activity
-
-<!-- LATEST_ACTIVITY_START -->
-- 🌟 [**Shifra_AI**](https://github.com/Jenil-Mungalpara/Shifra_AI) - No description provided
-- 🌟 [**Social-Scheduler**](https://github.com/Jenil-Mungalpara/Social-Scheduler) - No description provided
-- 🌟 [**portfolio**](https://github.com/Jenil-Mungalpara/portfolio) - No description provided
-- 🌟 [**VideoTube-Backend**](https://github.com/Jenil-Mungalpara/VideoTube-Backend) - No description provided
-- 🌟 [**weather-app**](https://github.com/Jenil-Mungalpara/weather-app) - No description provided
-<!-- LATEST_ACTIVITY_END -->
 
 ---
 
@@ -99,8 +90,7 @@ const jenil = {
 
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jenil-Mungalpara&theme=tokyonight" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jenil-Mungalpara&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jenil-Mungalpara&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
