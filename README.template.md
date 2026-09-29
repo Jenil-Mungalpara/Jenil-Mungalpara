@@ -72,11 +72,6 @@ const jenil = {
 ## ⚡ Recent Activity
 
 <!-- LATEST_ACTIVITY_START -->
-- 🌟 [**Shifra_AI**](https://github.com/Jenil-Mungalpara/Shifra_AI) - No description provided
-- 🌟 [**Social-Scheduler**](https://github.com/Jenil-Mungalpara/Social-Scheduler) - No description provided
-- 🌟 [**portfolio**](https://github.com/Jenil-Mungalpara/portfolio) - No description provided
-- 🌟 [**VideoTube-Backend**](https://github.com/Jenil-Mungalpara/VideoTube-Backend) - No description provided
-- 🌟 [**weather-app**](https://github.com/Jenil-Mungalpara/weather-app) - No description provided
 <!-- LATEST_ACTIVITY_END -->
 
 ---
