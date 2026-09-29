@@ -29,8 +29,6 @@ const jenil = {
 - **Runner-Up, JPMC Code for Good 2026**: Secured runner-up rank among 84 selected students (Mumbai region).
 - **Runner-Up, HACKaMINeD 2026**: Built an AI solar monitoring dashboard with natural language navigation.
 - **Finalist, odooxKSV Hackathon 2026**: Placed in top 8 out of 850 participating teams.
-- **Top-5 Finalist, GDG Hackathon**: Developed an AI learning platform using Gemini API for video assessments.
-
 ---
 
 ## 🛠️ Tech Stack
