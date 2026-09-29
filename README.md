@@ -106,7 +106,7 @@ const jenil = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jenil_Mungalpara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jenil-mungalpara)
 [![GitHub](https://img.shields.io/badge/GitHub-Jenil--Mungalpara-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jenil-Mungalpara)
-[![Email](https://img.shields.io/badge/Email-jenilmungalpara43%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jenilmungalpara43@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jenilmungalpara44%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jenilmungalpara44@gmail.com)
 
 </div>
 
