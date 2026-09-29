@@ -90,11 +90,11 @@ const jenil = {
 
 <div align="center">
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Jenil-Mungalpara&include_all_commits=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Jenil-Mungalpara&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jenil-Mungalpara&theme=tokyonight&hide_border=true&background=0D1117&stroke=6EE7B7&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7)](https://github.com/Jenil-Mungalpara)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jenil-Mungalpara&theme=tokyonight&hide_border=true&background=0D1117&stroke=6EE7B7&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7&cache_seconds=1800)](https://github.com/Jenil-Mungalpara)
 
 </div>
 
