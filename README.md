@@ -1,15 +1,18 @@
 <div align="center">
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Jenil+Mungalpara+%F0%9F%91%8B;Full-Stack+Developer+%7C+Problem+Solver;B.Tech+CS+%40+Nirma+University;Building+innovative+solutions)](https://git.io/typing-svg)
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A78BFA,100:C084FC&height=220&section=header&text=Jenil%20Mungalpara&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Competitive%20Programmer&descSize=16&descAlignY=55&descColor=E9D5FF&animation=fadeIn" />
 
-<img src="https://komarev.com/ghpvc/?username=Jenil-Mungalpara&style=for-the-badge&color=6EE7B7&label=PROFILE+VIEWS" />
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Jenil+Mungalpara+%F0%9F%91%8B;Full-Stack+Developer+%7C+Problem+Solver;B.Tech+CS+%40+Nirma+University;Building+innovative+solutions)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=Jenil-Mungalpara&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## `$ whoami`
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> `$ whoami`
 
 ```typescript
 const jenil = {
@@ -17,7 +20,7 @@ const jenil = {
   university: "Nirma University, Ahmedabad (B.Tech CS '28, CGPA: 9.42/10)",
   skills:     ["C/C++", "JavaScript", "React.js", "Node.js", "Express.js", "MongoDB", "Tailwind CSS"],
   interests:  ["Web Development", "Competitive Programming", "Algorithm Optimization"],
-  cp:         { codeforces: "Specialist (1466)", leetcode: "Knight (1876)" },
+  cp:         { codeforces: "Specialist (1466)", leetcode: "Knight (1877)" },
   leadership: "Club Director @ CodeAdda (Programming Club, Nirma University)"
 };
 ```
@@ -26,23 +29,38 @@ const jenil = {
 
 ## 🏆 Achievements
 
-- **Runner-Up, JPMC Code for Good 2026**: Secured runner-up rank among 84 selected students (Mumbai region).
-- **Runner-Up, HACKaMINeD 2026**: Built an AI solar monitoring dashboard with natural language navigation.
-- **Finalist, odooxKSV Hackathon 2026**: Placed in top 8 out of 850 participating teams.
+<table>
+<tr>
+<td>🥈</td>
+<td><strong>Runner-Up, JPMC Code for Good 2026</strong></td>
+<td>Secured runner-up rank at JPMorganChase code for good - 2026(Mumbai region).</td>
+</tr>
+<tr>
+<td>🥈</td>
+<td><strong>Runner-Up, HACKaMINeD 2026</strong></td>
+<td>Built an AI solar monitoring dashboard with natural language navigation.</td>
+</tr>
+<tr>
+<td>🏅</td>
+<td><strong>Finalist, odooxKSV Hackathon 2026</strong></td>
+<td>Built Commuteshare - Online car pooling platform for organization. Placed in top 8 out of 850 participating teams.</td>
+</tr>
+</table>
+
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
+**`Languages`**
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Web Technologies**
+**`Web Technologies`**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -88,11 +106,11 @@ const jenil = {
 
 <div align="center">
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Jenil-Mungalpara&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Jenil-Mungalpara&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=C084FC&cache_seconds=1800" />
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jenil-Mungalpara&theme=tokyonight&hide_border=true&background=0D1117&stroke=6EE7B7&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7&cache_seconds=1800)](https://github.com/Jenil-Mungalpara)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jenil-Mungalpara&theme=radical&hide_border=true&background=0D1117&stroke=A78BFA&ring=C084FC&fire=A78BFA&currStreakLabel=C084FC&sideLabels=A78BFA&dates=8B949E&currStreakNum=E9D5FF&sideNums=E9D5FF&cache_seconds=1800)](https://github.com/Jenil-Mungalpara)
 
 </div>
 
@@ -111,5 +129,8 @@ const jenil = {
 ---
 
 <div align="center">
-<sub>Crafted with ❤️ by Jenil Mungalpara</sub>
+
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A78BFA,100:C084FC&height=120&section=footer" />
+
 </div>
