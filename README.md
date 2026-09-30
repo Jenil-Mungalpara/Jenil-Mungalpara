@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A78BFA,100:C084FC&height=220&section=header&text=Jenil%20Mungalpara&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Competitive%20Programmer&descSize=16&descAlignY=55&descColor=E9D5FF&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED%2C50:A78BFA%2C100:C084FC&height=220&section=header&text=Jenil%20Mungalpara&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Competitive%20Programmer&descSize=16&descAlignY=55&descColor=E9D5FF&animation=fadeIn" />
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Jenil+Mungalpara+%F0%9F%91%8B;Full-Stack+Developer+%7C+Problem+Solver;B.Tech+CS+%40+Nirma+University;Building+innovative+solutions)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Jenil+Mungalpara+%F0%9F%91%8B;Full-Stack+Developer+%7C+Problem+Solver;B.Tech+CS+%40+Nirma+University;Building+innovative+solutions" alt="Typing SVG" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=Jenil-Mungalpara&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS" />
 
@@ -131,6 +131,6 @@ const jenil = {
 <div align="center">
 
 <!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A78BFA,100:C084FC&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED%2C50:A78BFA%2C100:C084FC&height=120&section=footer" />
 
 </div>
